@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning  **Everything**
 
-- 💬 Ask me about **Frontend, Node JS, Express JS, MongoDB**
+- 💬 Ask me about **Web Development**
 
 - 📫 How to reach me **parthsali04@gmail.com**
 
