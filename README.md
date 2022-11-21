@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning  **Everything**
 
-- 🎓 Currently persuing B.E. in **PICT, Pune.**
+- 🎓 Currently pursuing B.E. in **PICT, Pune.**
 
 - 💬 Ask me about **Web Development**
 
