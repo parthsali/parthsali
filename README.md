@@ -5,9 +5,13 @@
 
 - 🌱 I’m currently learning  **Everything**
 
+- 🎓 Currently persuing B.E. in **PICT, Pune.**
+
 - 💬 Ask me about **Web Development**
 
 - 📫 How to reach me **parthsali04@gmail.com**
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
