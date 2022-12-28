@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Parth Sali</h1>
 <h3 align="center">A MERN Stack Developer</h3>
 
+<img src ="https://camo.githubusercontent.com/8bf6f6d78abc81fcf9c49f10649423e73ea44bc248e83aaae8759d401c829a84/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966" align="right" width="400px">
+
 
 
 - 🌱 I’m currently learning  **Everything**
@@ -11,7 +13,6 @@
 
 - 📫 How to reach me **parthsali04@gmail.com**
 
-<img src ="https://camo.githubusercontent.com/8bf6f6d78abc81fcf9c49f10649423e73ea44bc248e83aaae8759d401c829a84/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966" align="right" width="400px">
 
 
 <h3 align="left">Connect with me:</h3>
