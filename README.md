@@ -31,7 +31,8 @@
   <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=parthsali&show_icons=true&locale=en&theme=synthwave&private_count=true&rank_icon=github" />
 </a>
 
-<hr>
+<br/>
+<br/>
 
 
 <b>Connect with me:</b>
