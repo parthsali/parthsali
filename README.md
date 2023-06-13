@@ -2,9 +2,9 @@
 
 
 
-<p align="center" >
+<h3 align="center" >
   <b>Languages and Tools:</b>
-</p>
+</h3>
 
 <p align='center'>
     <img src="./assets/html.svg" width="50" height="50"></img>
@@ -38,7 +38,7 @@
 <br/>
 
 
-<b>Connect with me:</b>
+<h3>Connect with me:</h3>
 
 
 [<img alt="Instagram" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&color=blueviolet" />](https://www.instagram.com/parthsali/)
