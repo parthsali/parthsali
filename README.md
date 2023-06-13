@@ -37,7 +37,7 @@
 <b>Connect with me:</b>
 
 
-[<img alt="Instagram" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&color=blueviolet?logoWidth=40" />](https://www.instagram.com/parthsali/)
+[<img alt="Instagram" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&color=blueviolet&logoWidth=40" />](https://www.instagram.com/parthsali/)
 [<img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&color=blueviolet&logoColor=white" />](https://www.instagram.com/parthsali/)
 [<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&color=blueviolet" />](https://www.linkedin.com/in/https://www.linkedin.com/in/parth-sali-578466230)
 
