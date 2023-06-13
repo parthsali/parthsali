@@ -41,4 +41,4 @@
 [<img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/parthsali/)
 [<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/https://www.linkedin.com/in/parth-sali-578466230)
 
-<img align = "center" src="https://komarev.com/ghpvc/?username=parthsali&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+<img  align="right" src="https://komarev.com/ghpvc/?username=parthsali&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
