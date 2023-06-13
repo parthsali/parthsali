@@ -22,7 +22,7 @@
 
 </p>
 
-<p align="left"><img width="45%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parthsali&show_icons=true&locale=en&layout=compact&theme=radical&hide=html,css,scss,jupyter%20notebook&langs_count=10"/></p>
-<p align="right"><img width="45%" align="center" src="https://github-readme-stats.vercel.app/api?username=parthsali&show_icons=true&locale=en&theme=synthwave&private_count=true"/></p>
+<p width="45%" align="left"><img  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parthsali&show_icons=true&locale=en&layout=compact&theme=radical&hide=html,css,scss,jupyter%20notebook&langs_count=10"/></p>
+<p width="45%" align="right"><img  align="center" src="https://github-readme-stats.vercel.app/api?username=parthsali&show_icons=true&locale=en&theme=synthwave&private_count=true"/></p>
 
 <img align = "center" src="https://komarev.com/ghpvc/?username=parthsali&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
