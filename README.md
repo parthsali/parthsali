@@ -28,10 +28,10 @@
 <br/>
 
 <a href="https://github.com/parthsali">
-  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parthsali&show_icons=true&locale=en&layout=compact&theme=synthwave&hide=html,css,scss,jupyter%20notebook&langs_count=10" />
+  <img height="180" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parthsali&show_icons=true&locale=en&layout=compact&theme=synthwave&hide=html,css,scss,jupyter%20notebook&langs_count=10" />
 </a>
 <a href="https://github.com/parthsali">
-  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=parthsali&show_icons=true&locale=en&theme=synthwave&private_count=true&rank_icon=github" />
+  <img height="180" align="center" src="https://github-readme-stats.vercel.app/api?username=parthsali&show_icons=true&locale=en&theme=synthwave&private_count=true&rank_icon=github" />
 </a>
 
 <br/>
