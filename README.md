@@ -36,10 +36,10 @@
 
 ### Top Repositories : 
 <a href="https://github.com/parthsali/SE_IT_Study_Material">
-  <img height="120" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=parthsali&repo=SE_IT_Study_Material&theme=synthwave" />
+  <img height="180" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=parthsali&repo=SE_IT_Study_Material&theme=synthwave" />
 </a>
 <a href="https://github.com/parthsali/SPPU_SE_IT_Practicals">
-  <img height="120" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=parthsali&repo=SPPU_SE_IT_Practicals&theme=synthwave" />
+  <img height="180" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=parthsali&repo=SPPU_SE_IT_Practicals&theme=synthwave" />
 </a>
 
 <br/>
