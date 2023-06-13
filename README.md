@@ -1,5 +1,7 @@
 <p align="center"><a href="https://github.com/parthsali"><img width="100%" alt="Hello, I'm Parth." src="./assets/header.png" /></a></p>
 
+<p>I'm a self-taught Developer from India</p>
+
 <p align="center" >
   <b>Languages and Tools:</b>
 </p>
