@@ -5,20 +5,24 @@
 </p>
 
 <p align='center'>
-    <code><img src="./assets/html.svg" height="20"></img></code>
-    <img src="./assets/css.svg" height="20"></img>
-    <img src="./assets/tailwindcss.svg" height="20"></img>
-    <img src="./assets/javascript.svg" height="20"></img>
-    <img src="./assets/react.svg" height="20"></img>
-    <img src="./assets/nodejs.svg" height="20"></img>
-    <img src="./assets/mongodb.svg" height="20"></img>
-    <img src="./assets/npm.svg" height="20"></img>
-    <img src="./assets/python.svg" height="20"></img>
-    <img src="./assets/c.svg" height="20"></img>
-    <img src="./assets/cpp.svg" height="20"></img>
-    <img src="./assets/git.svg" height="20"></img>
-    <img src="./assets/flask.svg" height="20"></img>
+    <img src="./assets/html.svg" width="50" height="50"></img>
+    <img src="./assets/css.svg" width="50" height="50"></img>
+    <img src="./assets/tailwindcss.svg" width="50" height="50"></img>
+    <img src="./assets/javascript.svg" width="50" height="50"></img>
+    <img src="./assets/react.svg" width="50" height="50"></img>
+    <img src="./assets/nodejs.svg" width="50" height="50"></img>
+    <img src="./assets/mongodb.svg" width="50" height="50"></img>
+    <img src="./assets/npm.svg" width="50" height="50"></img>
+    <img src="./assets/python.svg" width="50" height="50"></img>
+    <img src="./assets/c.svg" width="50" height="50"></img>
+    <img src="./assets/cpp.svg" width="50" height="50"></img>
+    <img src="./assets/git.svg" width="50" height="50"></img>
+    <img src="./assets/flask.svg" width="50" height="50"></img>
+    <img src="./assets/vscode.svg" width="50" height="50"></img>
 
 </p>
+
+<p align="left"><img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parthsali&show_icons=true&locale=en&layout=compact&theme=radical&hide=html,css,scss&langs_count=10"/></p>
+<p align="right"><img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=parthsali&show_icons=true&locale=en&theme=radical&private_count=true"/></p>
 
 <img align = "center" src="https://komarev.com/ghpvc/?username=parthsali&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
