@@ -1,10 +1,7 @@
-<p align="center"><a href="https://github.com/parthsali"><img width="100%" alt="Hello, I'm Parth." src="./assets/header.png" /></a></p>
+<p align="center"><a href="https://github.com/parthsali"><img width="100%" alt="Hello, I'm Parth." src="./assets/header.png" /></a></p
+                                                                                                                                     
+  ### Languages and Tools :
 
-
-
-<h3 align="center" >
-  <b>Languages and Tools :</b>
-</h3>
 
 <p align='center'>
     <img src="./assets/html.svg" width="50" height="50"></img>
@@ -37,8 +34,18 @@
 <br/>
 <br/>
 
+### Top Repositories : 
+<a href="https://github.com/parthsali/SE_IT_Study_Material">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=parthsali&repo=SE_IT_Study_Material&theme=synthwave" />
+</a>
+<a href="https://github.com/parthsali/SPPU_SE_IT_Practicals">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=parthsali&repo=SPPU_SE_IT_Practicals&theme=synthwave" />
+</a>
 
-<h3>Connect with me :</h3>
+<br/>
+<br/>
+
+### Connect with me :
 
 
 [<img alt="Instagram" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&color=blueviolet" />](https://www.instagram.com/parthsali/)
