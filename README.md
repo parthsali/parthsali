@@ -3,7 +3,7 @@
 
 
 <h3 align="center" >
-  <b>Languages and Tools:</b>
+  <b>Languages and Tools :</b>
 </h3>
 
 <p align='center'>
@@ -38,7 +38,7 @@
 <br/>
 
 
-<h3>Connect with me:</h3>
+<h3>Connect with me :</h3>
 
 
 [<img alt="Instagram" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&color=blueviolet" />](https://www.instagram.com/parthsali/)
