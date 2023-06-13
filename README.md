@@ -5,19 +5,19 @@
 </p>
 
 <p align='center'>
-    <code><img src="./assets/html.svg"></img></code>
-    <img src="./assets/css.svg"></img>
-    <img src="./assets/tailwindcss.svg"></img>
-    <img src="./assets/javascript.svg"></img>
-    <img src="./assets/react.svg"></img>
-    <img src="./assets/nodejs.svg"></img>
-    <img src="./assets/mongodb.svg"></img>
-    <img src="./assets/npm.svg"></img>
-    <img src="./assets/python.svg"></img>
-    <img src="./assets/c.svg"></img>
-    <img src="./assets/cpp.svg"></img>
-    <img src="./assets/git.svg"></img>
-    <img src="./assets/flask.svg"></img>
+    <code><img src="./assets/html.svg" width="50" height="50"></img></code>
+    <img src="./assets/css.svg" width="50" height="50"></img>
+    <img src="./assets/tailwindcss.svg" width="50" height="50"></img>
+    <img src="./assets/javascript.svg" width="50" height="50"></img>
+    <img src="./assets/react.svg"width="50" height="50" ></img>
+    <img src="./assets/nodejs.svg" width="50" height="50"></img>
+    <img src="./assets/mongodb.svg" width="50" height="50"></img>
+    <img src="./assets/npm.svg" width="50" height="50"></img>
+    <img src="./assets/python.svg" width="50" height="50"></img>
+    <img src="./assets/c.svg" width="50" height="50"></img>
+    <img src="./assets/cpp.svg" width="50" height="50"></img>
+    <img src="./assets/git.svg" width="50" height="50"></img>
+    <img src="./assets/flask.svg" width="50" height="50"></img>
 
 </p>
 
