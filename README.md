@@ -19,7 +19,10 @@
     <img src="./assets/git.svg" width="50" height="50"></img>
     <img src="./assets/flask.svg" width="50" height="50"></img>
     <img src="./assets/vscode.svg" width="50" height="50"></img>
+<<<<<<< HEAD
 
+=======
+>>>>>>> 51673df6ca3680426ef6fe15c95afede66f9b8ae
 </p>
 
 <p align="left"><img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parthsali&show_icons=true&locale=en&layout=compact&theme=radical&hide=html,css,scss&langs_count=10"/></p>
