@@ -53,4 +53,4 @@
 [<img alt="Twitter" src="https://img.shields.io/badge/Twitter-0077B5?style=for-the-badge&logo=twitter&color=blueviolet&logoColor=white" />](https://twitter.com/ParthSali)
 
 
-<img  align="right" src="https://komarev.com/ghpvc/?username=parthsali&label=Profile%20views&color=blueviolet&style=flat" alt="profile views" />
+<img  align="right" src="https://komarev.com/ghpvc/?username=parthsali&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="profile views" />
