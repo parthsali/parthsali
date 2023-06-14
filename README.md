@@ -25,10 +25,10 @@
 <br/>
 
 <a href="https://github.com/parthsali">
-  <img height="180" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parthsali&show_icons=true&locale=en&layout=compact&theme=synthwave&hide=html,css,scss,jupyter%20notebook&langs_count=10" />
+  <img height="180" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parthsali&show_icons=true&locale=en&layout=compact&theme=dracula&hide=html,css,scss,jupyter%20notebook&langs_count=10" />
 </a>
 <a href="https://github.com/parthsali">
-  <img height="180" align="center" src="https://github-readme-stats.vercel.app/api?username=parthsali&show_icons=true&locale=en&theme=synthwave&private_count=true&rank_icon=github" />
+  <img height="180" align="center" src="https://github-readme-stats.vercel.app/api?username=parthsali&show_icons=true&locale=en&theme=dracula&private_count=true&rank_icon=github" />
 </a>
 
 <br/>
@@ -36,10 +36,10 @@
 
 ### Top Repositories : 
 <a href="https://github.com/parthsali/SE_IT_Study_Material">
-  <img height="135" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=parthsali&repo=SE_IT_Study_Material&theme=synthwave" />
+  <img height="135" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=parthsali&repo=SE_IT_Study_Material&theme=dracula" />
 </a>
 <a href="https://github.com/parthsali/SPPU_SE_IT_Practicals">
-  <img height="135" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=parthsali&repo=SPPU_SE_IT_Practicals&theme=synthwave" />
+  <img height="135" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=parthsali&repo=SPPU_SE_IT_Practicals&theme=dracula" />
 </a>
 
 <br/>
