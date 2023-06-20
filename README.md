@@ -1,4 +1,4 @@
-<p align="center"><a href="https://github.com/parthsali"><img width="100%" alt="Hello, I'm Parth." src="./assets/header.png" /></a></p>
+<p align="center"><a href="https://github.com/parthsali"><img width="100%" alt="Hello, I'm Parth." src="./assets/banner.png" /></a></p>
                                                                                                                                      
  <h3 align='center'>Languages and Tools :</h3>
 
