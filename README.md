@@ -18,7 +18,7 @@
     <img src="./assets/git.svg" width="50" height="50"></img>
     <img src="./assets/flask.svg" width="50" height="50"></img>
     <img src="./assets/vscode.svg" width="50" height="50"></img>
-    <img src="./assets/postman" width="50" height="50"></img>
+    <img src="./assets/postman.svg" width="50" height="50"></img>
 
 </p>
 
