@@ -1,4 +1,6 @@
 <p align="center"><a href="https://github.com/parthsali"><img width="100%" alt="Hello, I'm Parth." src="./assets/banner.png" /></a></p>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=600&pause=1000&color=DB3B7E&vCenter=true&random=false&width=435&lines=UX%2FUI+Designer;MERN+Stack+Developer(Full+Stack);AI%2CML+Enthusiast)](https://git.io/typing-svg)
                                                                                                                                      
  <h3 align='center'>Languages and Tools :</h3>
 
