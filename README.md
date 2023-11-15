@@ -1,7 +1,9 @@
 <p align="center"><a href="https://github.com/parthsali"><img width="100%" alt="Hello, I'm Parth." src="./assets/banner.png" /></a></p>
 
 <p align="center">
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu&weight=700&duration=3000&pause=500&color=7843E6&vCenter=true&random=false&width=330&lines=UI%2FUX+Designer;MERN+Stack+Developer(Full+Stack);AI%2CML+Enthusiast)](https://git.io/typing-svg)
+
 </p>
 
  <h3 align='center'>Languages and Tools :</h3>
