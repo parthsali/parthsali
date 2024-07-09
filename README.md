@@ -36,4 +36,4 @@
     <p></p>
 </div>
 
-<img  align=center src="https://komarev.com/ghpvc/?username=parthsali&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="profile views" />
+<img  align=right src="https://komarev.com/ghpvc/?username=parthsali&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="profile views" />
