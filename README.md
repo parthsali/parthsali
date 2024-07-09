@@ -1,8 +1,8 @@
 <p align="center"><a href="https://github.com/parthsali"><img width="100%" align="center" alt="Hello, I'm Parth." src="./assets/banner3.png" /></a></p>
 
-<p align=center>
+<p align=left>
     <strong>
-        Welcome!
+        Welcome! 👋
         You have finally discovered my GitHub profile.
     </strong>
     <br>
