@@ -5,16 +5,24 @@
         Welcome!
         You have finally discovered my GitHub profile.
     </strong>
+    <br>
+    <br>
     <strong>
         I'm Parth Sali, a software developer based in Pune. I love crafting software, solving problems, and creating seamless user experiences.
     </strong>
+    <br>
+    <br>
     <strong>
         Feel free to explore my repositories, clone/fork projects, raise issues, and submit PRs if you think something could be better.
     </strong>
+    <br>
+    <br>
     <strong>
         Ask me anything [here](https://www.parthsali.me) or email me at [parthsali04@gmail.com](mailto:parthsali04@gmail.com)
         Happy Coding! 😊  
     </strong>
+    <br>
+    <br>
 </p>
 
 <img  align="right" src="https://komarev.com/ghpvc/?username=parthsali&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="profile views" />
