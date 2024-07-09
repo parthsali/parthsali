@@ -18,7 +18,8 @@
     <br>
     <br>
     <strong>
-        Ask me anything [here](https://www.parthsali.me) or email me at [parthsali04@gmail.com](mailto:parthsali04@gmail.com)
+        Ask me anything <a href="https://www.parthsali.me">here</a> 
+        or email me at <a href="mailto:parthsali04@gmail.com">parthsali04@gmail.com</a>
         Happy Coding! 😊  
     </strong>
     <br>
