@@ -8,14 +8,20 @@
     </strong>
     <p></p>
     <p></p>
+    <p></p>
+    <p></p>
     <strong>
         I'm Parth Sali, a software developer based in Pune. I love crafting software, solving problems, and creating seamless user experiences.
     </strong>
     <p></p>
     <p></p>
+    <p></p>
+    <p></p>
     <strong>
         Feel free to explore my repositories, clone/fork projects, raise issues, and submit PRs if you think something could be better.
     </strong>
+    <p></p>
+    <p></p>
     <p></p>
     <p></p>
     <strong>
@@ -26,6 +32,8 @@
     </strong>
     <p></p>
     <p></p>
+    <p></p>
+    <p></p>
 </div>
 
-<img  align="right" src="https://komarev.com/ghpvc/?username=parthsali&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="profile views" />
+<img  align="center" src="https://komarev.com/ghpvc/?username=parthsali&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="profile views" />
