@@ -4,7 +4,6 @@
     <strong>
         Welcome! 👋
          </br>
-        You have finally discovered my GitHub profile.
     </strong>
     <p></p>
     <p></p>
