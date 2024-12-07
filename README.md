@@ -33,6 +33,10 @@
     <p></p>
     <p></p>
     <p></p>
+    <strong>
+        Follow me on Instagram for tech content: 
+        <a href="https://www.instagram.com/developerforreal/" target="_blank">@developerforreal</a>
+    </strong>
 </div>
 
 <img  align=right src="https://komarev.com/ghpvc/?username=parthsali&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="profile views" />
