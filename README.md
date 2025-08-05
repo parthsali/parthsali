@@ -10,7 +10,7 @@
     <p></p>
     <p></p>
     <strong>
-        I'm Parth Sali, a software developer from Pune, currently in Bangalore. I love crafting software, solving problems, and creating seamless user experiences.
+        I'm Parth Sali, a software developer. I love crafting software, solving problems, and creating seamless user experiences.
     </strong>
     <p></p>
     <p></p>
